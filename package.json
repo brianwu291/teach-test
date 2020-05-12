@@ -1,0 +1,15 @@
+{
+  "name": "teach-test",
+  "version": "1.0.0",
+  "description": "test teaching programming.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Brian Wu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
