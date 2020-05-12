@@ -3,7 +3,7 @@
 // 當以上都不符合，console no
 
 
-function name (parameters) {
+function judgeFizzBuz (n = 0) {
   // ......
 }
 
@@ -16,7 +16,7 @@ function name (parameters) {
 // 練習： 1 加到 n？
 
 
-// fizzbuzz  實作
+// fizzbuzz + loop 實作
 
 function judgeFizzBuzzLoopVersion(n = 0) {
  // ...
